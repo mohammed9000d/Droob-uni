@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'JF Flat';
+    src: url('JFFlat-Medium.eot');
+    src: url('JFFlat-Medium.eot?#iefix') format('embedded-opentype'),
+        url('JFFlat-Medium.woff2') format('woff2'),
+        url('JFFlat-Medium.woff') format('woff'),
+        url('JFFlat-Medium.ttf') format('truetype'),
+        url('JFFlat-Medium.svg#JFFlat-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
